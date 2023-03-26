@@ -11,7 +11,7 @@
 This toolkit provides packages to put together server and pubsub daemons with the following features:
 
 * Standardized configuration and logging
-* Health check endpoints with configurable strategies
+* Health check endpoints with configurable strategies  
 * Configuration for managing pprof endpoints and log levels
 * Basic interfaces to define expectations and vocabulary
 * Structured logging containing basic request information
