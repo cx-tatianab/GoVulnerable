@@ -19,7 +19,7 @@ This toolkit provides packages to put together server and pubsub daemons with th
 * Graceful shutdowns
 
 
-### Install
+### Install   
 Notice the capitalization!
 
 `go get github.com/NYTimes/gizmo/...`
